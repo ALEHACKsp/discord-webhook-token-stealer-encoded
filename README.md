@@ -1,4 +1,3 @@
-# discord-webhook-token-stealer-encoded
 encrypted script for token grabber
 you need to encrypt the url of your webhook by doing btoa("WEBHOOK URL");
 and put the encrypted result in the variable url (var url="ENCRYPTED WEBHOOK URL";)
